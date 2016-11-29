@@ -1305,7 +1305,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1381,7 +1381,7 @@
              y="0"
              xlink:href="#layer1-6-7-0"
              id="use279257"
-             transform="matrix(0.95,0,0,0.95,207.71229,22.32349)"
+             transform="matrix(-0.95,0,0,-0.95,888.31827,786.25419)"
              width="224.25"
              height="312.78125" />
           <text

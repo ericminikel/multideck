@@ -27,7 +27,7 @@
      inkscape:cx="123.57509"
      inkscape:cy="189.30835"
      inkscape:document-units="px"
-     inkscape:current-layer="g73"
+     inkscape:current-layer="layer1"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
@@ -642,14 +642,14 @@
     </g>
     <g
        id="g399442"
-       transform="matrix(-0.92303953,0,0,-0.92303953,693.67549,1039.2527)">
+       transform="matrix(-0.92303953,0,0,-0.92303953,689.4618,1045.5083)">
       <g
          transform="matrix(0.49936327,0,0,0.49936327,223.7882,208.22264)"
          id="g399444"
          style="display:inline">
         <path
            sodipodi:type="star"
-           style="fill:#9f9f9f;fill-opacity:1;stroke:#f6f6f6;stroke-opacity:0.69644841;display:inline"
+           style="display:inline;fill:#9f9f9f;fill-opacity:1;stroke:#f6f6f6;stroke-opacity:0.69644841"
            id="path399446"
            sodipodi:sides="8"
            sodipodi:cx="305.11658"
@@ -671,7 +671,7 @@
          id="text399448"
          y="422.20609"
          x="441.83914"
-         style="font-size:19.07244873px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Card Characters;-inkscape-font-specification:Card Characters"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.07244873px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="422.20609"
            x="441.83914"
@@ -695,19 +695,20 @@
            id="tspan3766"
            sodipodi:role="line">10</tspan></text>
       <text
-         inkscape:transform-center-y="15.803644"
+         inkscape:transform-center-y="-15.803633"
          sodipodi:linespacing="125%"
          id="text3768"
-         y="547.16522"
-         x="427.68011"
+         y="-528.21967"
+         x="-460.54718"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.96725082px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.66144705;stroke-opacity:1"
          xml:space="preserve"
-         inkscape:transform-center-x="-2.2603368e-05"><tspan
+         inkscape:transform-center-x="1.7957593e-05"
+         transform="scale(-1,-1)"><tspan
            style="stroke-width:0.66144705"
            sodipodi:role="line"
            id="tspan3770"
-           x="427.68011"
-           y="547.16522">10</tspan></text>
+           x="-460.54718"
+           y="-528.21967">10</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:90px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"

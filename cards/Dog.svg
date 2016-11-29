@@ -34,7 +34,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1440"
-     inkscape:window-height="795"
+     inkscape:window-height="790"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -382,13 +382,14 @@
     <text
        sodipodi:linespacing="125%"
        id="text396003"
-       y="546.82037"
-       x="434.74454"
+       y="-529.33337"
+       x="-464.93329"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.01966476px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1"
        xml:space="preserve"
-       inkscape:transform-center-y="15.204052"><tspan
-         y="546.82037"
-         x="434.74454"
+       transform="scale(-1,-1)"
+       inkscape:transform-center-y="-15.204056"><tspan
+         y="-529.33337"
+         x="-464.93329"
          sodipodi:role="line"
          id="tspan396005"
          style="stroke-width:0.63635188">31</tspan></text>
