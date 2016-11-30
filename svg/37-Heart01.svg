@@ -14,7 +14,7 @@
    height="312.78125"
    id="svg18947"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="37-Heart01.svg">
   <sodipodi:namedview
      id="base"
@@ -23,20 +23,20 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4895023"
-     inkscape:cx="166.04224"
-     inkscape:cy="187.28883"
+     inkscape:zoom="11.916018"
+     inkscape:cx="-75.649234"
+     inkscape:cy="267.85266"
      inkscape:document-units="px"
-     inkscape:current-layer="g439182"
+     inkscape:current-layer="g10665"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1440"
-     inkscape:window-height="790"
+     inkscape:window-width="2560"
+     inkscape:window-height="1606"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="31"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-bbox="true"
@@ -474,14 +474,14 @@
       <g
          id="layer1-6-7"
          inkscape:label="Layer 1"
-         transform="matrix(0,-0.62596373,0.62596373,0,6.8240165,764.46935)"
+         transform="matrix(0.62596373,0,0,0.62596373,37.975679,280.0343)"
          style="fill:none;stroke:#000000;stroke-opacity:1">
         <text
            sodipodi:linespacing="125%"
            id="text70860-7"
            y="-348.30997"
            x="399.96503"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.74588394px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1"
+           style="font-size:37.74588394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1;font-family:Card Characters;-inkscape-font-specification:Card Characters"
            xml:space="preserve"
            transform="matrix(0,1,-1,0,0,0)"
            inkscape:transform-center-x="16.004255"><tspan
@@ -513,14 +513,14 @@
       </g>
       <g
          style="fill:none;stroke:#000000;stroke-opacity:1"
-         transform="matrix(0,-0.62596373,0.62596373,0,6.8240165,764.46935)"
+         transform="matrix(0.62596373,0,0,0.62596373,37.975679,280.0343)"
          inkscape:label="Layer 1"
          id="g439190">
         <text
            inkscape:transform-center-x="16.004255"
            transform="matrix(0,1,-1,0,0,0)"
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.74588394px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1"
+           style="font-size:37.74588394px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-opacity:1;font-family:Card Characters;-inkscape-font-specification:Card Characters"
            x="399.96503"
            y="-348.30997"
            id="text439192"

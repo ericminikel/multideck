@@ -14,7 +14,7 @@
    height="312.78125"
    id="svg18947"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="40-Heart04.svg">
   <sodipodi:namedview
      id="base"
@@ -23,18 +23,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3976408"
+     inkscape:zoom="11.181126"
      inkscape:cx="56.240787"
      inkscape:cy="115.63506"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10706"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1330"
-     inkscape:window-height="856"
+     inkscape:window-height="1217"
      inkscape:window-x="6"
      inkscape:window-y="31"
      inkscape:window-maximized="0"
@@ -436,29 +436,31 @@
     <text
        sodipodi:linespacing="125%"
        id="text70860-7"
-       y="546.82037"
-       x="260.37698"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.01966476px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1"
+       y="-259.48636"
+       x="522.38733"
+       style="font-size:24.01966476px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1;font-family:Card Characters;-inkscape-font-specification:Card Characters"
        xml:space="preserve"
-       inkscape:transform-center-y="15.204056"><tspan
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:transform-center-x="15.204047"
+       inkscape:transform-center-y="-1.0913572e-05"><tspan
          sodipodi:role="line"
          id="tspan89053"
-         x="260.37698"
-         y="546.82037"
+         x="522.38733"
+         y="-259.48636"
          style="stroke-width:0.63635188">34</tspan></text>
     <text
-       transform="scale(-1,-1)"
+       inkscape:transform-center-x="-15.204042"
+       transform="matrix(0,-1,1,0,0,0)"
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.01966476px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1"
-       x="-459.62115"
-       y="-529.33337"
+       style="font-size:24.01966476px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1;font-family:Card Characters;-inkscape-font-specification:Card Characters"
+       x="-553.51416"
+       y="460.15781"
        id="text443195"
-       sodipodi:linespacing="125%"
-       inkscape:transform-center-y="-15.204067"><tspan
+       sodipodi:linespacing="125%"><tspan
          id="tspan443197"
          sodipodi:role="line"
-         x="-459.62115"
-         y="-529.33337"
+         x="-553.51416"
+         y="460.15781"
          style="stroke-width:0.63635188">34</tspan></text>
   </g>
 </svg>

@@ -14,7 +14,7 @@
    height="312.78125"
    id="svg18947"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.48.3.1 r9886"
    sodipodi:docname="10-Club10.svg">
   <sodipodi:namedview
      id="base"
@@ -27,14 +27,14 @@
      inkscape:cx="99.193241"
      inkscape:cy="156.39062"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g10588"
      showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1435"
-     inkscape:window-height="856"
+     inkscape:window-height="1238"
      inkscape:window-x="138"
      inkscape:window-y="116"
      inkscape:window-maximized="0"
@@ -239,16 +239,17 @@
     <text
        sodipodi:linespacing="125%"
        id="text70860-7"
-       y="546.82037"
-       x="254.53531"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.01966476px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1"
+       y="-259.49521"
+       x="522.38733"
+       style="font-size:24.01966476px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.63635188;stroke-opacity:1;font-family:Card Characters;-inkscape-font-specification:Card Characters"
        xml:space="preserve"
-       inkscape:transform-center-x="1.2574922e-05"
-       inkscape:transform-center-y="15.204061"><tspan
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:transform-center-x="15.204046"
+       inkscape:transform-center-y="-1.3410425e-05"><tspan
          sodipodi:role="line"
          id="tspan12321"
-         x="254.53531"
-         y="546.82037"
+         x="522.38733"
+         y="-259.49521"
          style="stroke-width:0.63635188">20</tspan></text>
     <use
        x="0"
@@ -256,7 +257,7 @@
        xlink:href="#text70860-7"
        inkscape:transform-center-x="-19.735628"
        id="use3818"
-       transform="matrix(-1,0,0,-1,719.99812,1076.1537)"
+       transform="matrix(-1,0,0,-1,719.99813,1076.1658)"
        width="224.25"
        height="312.78125"
        inkscape:transform-center-y="-0.00060556744" />
