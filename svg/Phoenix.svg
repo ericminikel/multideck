@@ -22,7 +22,7 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="2.8284271"
      inkscape:cx="106.77584"
      inkscape:cy="198.15078"
      inkscape:document-units="px"
@@ -33,7 +33,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1440"
-     inkscape:window-height="790"
+     inkscape:window-height="791"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +45,7 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        id="guide345474"
@@ -360,7 +360,7 @@
     <g
        id="layer1-6-7"
        inkscape:label="Layer 1"
-       transform="matrix(0,-0.63635188,0.63635188,0,6.7261996,767.99577)"
+       transform="matrix(0.63635188,0,0,0.63635188,36.079731,277.51974)"
        style="fill:none;stroke:#000000;stroke-opacity:1">
       <text
          sodipodi:linespacing="125%"
@@ -378,7 +378,7 @@
     </g>
     <g
        style="fill:none;stroke:#000000;stroke-opacity:1"
-       transform="matrix(0,0.63635188,-0.63635188,0,713.27191,307.64152)"
+       transform="matrix(-0.63635188,0,0,-0.63635188,683.91838,799.88532)"
        inkscape:label="Layer 1"
        id="g345441">
       <text

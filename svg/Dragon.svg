@@ -22,9 +22,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="-116.33996"
-     inkscape:cy="156.39062"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="95.792075"
+     inkscape:cy="142.24848"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -33,7 +33,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:window-width="1440"
-     inkscape:window-height="790"
+     inkscape:window-height="791"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -45,7 +45,7 @@
      inkscape:snap-bbox-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true"
      inkscape:snap-to-guides="true"
      inkscape:snap-page="true">
@@ -155,7 +155,7 @@
      style="display:inline">
     <g
        style="fill:none;stroke:#000000;stroke-opacity:1"
-       transform="matrix(0,-0.66342513,0.66342513,0,-4.9805067,777.99624)"
+       transform="matrix(0.66342513,0,0,0.66342513,26.632445,264.71229)"
        inkscape:label="Layer 1"
        id="layer1-6-7">
       <text
@@ -302,7 +302,7 @@
     <g
        id="g349411"
        inkscape:label="Layer 1"
-       transform="matrix(0,0.66342513,-0.66342513,0,725.32082,297.71752)"
+       transform="matrix(-0.66342513,0,0,-0.66342513,693.36567,811.44143)"
        style="fill:none;stroke:#000000;stroke-opacity:1">
       <text
          sodipodi:linespacing="125%"

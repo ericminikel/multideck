@@ -23,12 +23,12 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
+     inkscape:zoom="2.0000001"
      inkscape:cx="112.7103"
      inkscape:cy="175.64717"
      inkscape:document-units="px"
-     inkscape:current-layer="g281618"
-     showgrid="true"
+     inkscape:current-layer="g281604"
+     showgrid="false"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
@@ -47,7 +47,7 @@
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
      inkscape:snap-page="true"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <sodipodi:guide
        id="guide27072"
@@ -108,7 +108,7 @@
     <sodipodi:guide
        id="guide27100"
        orientation="0,224.25"
-       position="0,156.3906" />
+       position="205,155" />
     <sodipodi:guide
        id="guide27102"
        orientation="0,224.25"
@@ -1764,22 +1764,23 @@
          id="g281604">
         <g
            style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           transform="matrix(0.89617309,0,0,0.89617309,-286.54524,-218.40341)"
+           transform="matrix(0.89617309,0,0,0.89617309,-287.14534,-212.56611)"
            inkscape:label="Layer 1"
            id="layer1-6-7-0">
           <text
-             inkscape:transform-center-x="1.3108433e-05"
+             inkscape:transform-center-x="10.433103"
              xml:space="preserve"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.60632324px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.65189427;stroke-opacity:1"
-             x="334.36877"
-             y="421.53726"
+             x="403.90839"
+             y="-333.34366"
              id="text70860-7-8"
              sodipodi:linespacing="125%"
-             inkscape:transform-center-y="10.433092"><tspan
+             inkscape:transform-center-y="-2.3899798e-05"
+             transform="matrix(0,1,-1,0,0,0)"><tspan
                sodipodi:role="line"
                id="tspan282817"
-               x="334.36877"
-               y="421.53726"
+               x="403.90839"
+               y="-333.34366"
                style="stroke-width:0.65189427">9</tspan></text>
         </g>
         <use
@@ -1787,43 +1788,9 @@
            y="0"
            xlink:href="#layer1-6-7-0"
            id="use279257"
-           transform="matrix(-0.95,0,0,-0.95,229.08911,295.96293)"
+           transform="matrix(-0.95,0,0,-0.95,223.26866,304.86277)"
            width="224.25"
            height="312.78125" />
-        <g
-           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           transform="translate(-318.62903,-280.39591)"
-           inkscape:label="Layer 1"
-           id="layer1-6-7-0-7">
-          <text
-             inkscape:transform-center-x="1.3108433e-05"
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.60632324px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:none;stroke:#000000;stroke-width:0.65189427;stroke-opacity:1"
-             x="334.405"
-             y="450.16495"
-             id="text70860-7-8-2"
-             sodipodi:linespacing="125%"
-             inkscape:transform-center-y="10.433092"><tspan
-               sodipodi:role="line"
-               id="tspan282817-8"
-               x="334.405"
-               y="450.16495"
-               style="stroke-width:0.65189427">-</tspan></text>
-          <text
-             inkscape:transform-center-x="1.3108433e-05"
-             xml:space="preserve"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.60632324px;line-height:125%;font-family:'Card Characters';-inkscape-font-specification:'Card Characters';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.65189427;stroke-opacity:1"
-             x="523.84106"
-             y="427.63168"
-             id="text70860-7-8-2-2"
-             sodipodi:linespacing="125%"
-             inkscape:transform-center-y="10.433092"><tspan
-               sodipodi:role="line"
-               id="tspan282817-8-3"
-               x="523.84106"
-               y="427.63168"
-               style="stroke-width:0.65189427">-</tspan></text>
-        </g>
       </g>
       <text
          xml:space="preserve"
