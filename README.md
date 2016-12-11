@@ -50,4 +50,8 @@ To play No Thanks, pull out the cards with the white outlined numbers 3-35 and d
 
 The master files for the card designs are in the [svg](/svg/) folder. These are vector graphics you can manipulate with [Inkscape](https://inkscape.org/en/). If you're printing through MakePlayingCards.com, as we did, you need to add 2.5 mm margins to these and then convert to raster; the [pad-margins-and-convert-to-png.sh](/src/pad-margins-and-convert-to-png.sh) script can do both, in two clumsy steps, using the Inkscape command line interface.
 
+## Credits
+
+Thanks to Adam Bliss for designing this ingenious deck. Any contributions I've made are marginal.
+
 
