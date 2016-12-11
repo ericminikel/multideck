@@ -10,6 +10,7 @@ This 60-card, multi-game custom deck is forked from [Adam Bliss's](https://githu
 
 The name "Tichu" is the Wade-Giles romanization of 地主 (pinyin: dìzhǔ), the Chinese word for landlord. The game as played in the United States (including with this deck) is actually a fusion of rules from at least two different Chinese card games: 斗地主 (dòudìzhǔ, *struggling the landlord*) and 八十分 (bāshífēn, *eighty points*).
 
++ [GameCabinet](http://www.gamecabinet.com/rules/Tichu.html)
 + [BGG](http://www.boardgamegeek.com/boardgame/215/tichu)
 + [wiki](http://en.wikipedia.org/wiki/Tichu)
 + [amazon](http://www.amazon.com/Rio-Grande-Games-328RGG-Tichu/dp/B001C8CO26/)
